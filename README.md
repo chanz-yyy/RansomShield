@@ -38,7 +38,3 @@ These are educational analogies, not a claim that a technique was performed or t
 
 ## Limitations
 No auth (local single-user demo only); no PDF export; no pre-recovery snapshot; monitor events are drained when a page refreshes; behaviour-based detection ≠ enterprise protection; incident-alert linking is automatic only.
-=======
-# RansomShield
-A Behaviour-Based Ransomware Detection and Integrity-Aware Recovery Simulator
->>>>>>> origin/main
