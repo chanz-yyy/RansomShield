@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RansomShield — Ransomware Behaviour Detection & Recovery Simulator
 Educational, defensive project. **It never encrypts or deletes files.** Simulations touch only generated sample files in an approved workspace; deletion is synthetic telemetry; renames are reversible; containment is simulated in-app.
 
